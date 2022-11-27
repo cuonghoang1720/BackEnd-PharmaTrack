@@ -1,0 +1,29 @@
+{
+  "name": "backend_pharmatrack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon --inspect server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuonghoang1720/BackEnd-PharmaTrack.git"
+  },
+  "keywords": [
+    "Node",
+    "js",
+    "Postgres"
+  ],
+  "author": "Cuonghg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cuonghoang1720/BackEnd-PharmaTrack/issues"
+  },
+  "homepage": "https://github.com/cuonghoang1720/BackEnd-PharmaTrack#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
